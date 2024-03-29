@@ -1,0 +1,30 @@
+{
+  "entity.rotp_spiderman.spider_man": "Spider-Man",
+  "stand.rotp_spiderman.spider_man": "Spider-Man",
+  "action.rotp_spiderman.spider_man_punch": "Punch",
+  "action.rotp_spiderman.spider_man_heavy_punch": "Heavy Punch",
+  "action.rotp_spiderman.spider_man_barrage": "Barrage",
+  "action.rotp_spiderman.spider_man_block": "Block",
+  "action.rotp_spiderman.spider_man_barrier": "Web (%s/%s)",
+  "action.rotp_spiderman.spider_man_grapple": "Spider-Grapple",
+  "action.rotp_spiderman.spider_man_grapple_entity": "Web Catch",
+  "action.rotp_spiderman.spider_man_climb": "Cimb Wall",
+  "action.rotp_spiderman.spider_man_hang": "Hang Wall",
+  "action.rotp_spiderman.spider_man_shoot": "Web Shoot",
+  "action.rotp_spiderman.spider_man_burst": "Web Burst",
+  "action.rotp_spiderman.spider_man_finisher": "Combo Finisher",
+  "action.rotp_spiderman.spider_sense": "Spider Sense",
+  "action.rotp_spiderman.pider_sense_finish": "Spider Sense Finisher",
+
+  "entity.rotp_spiderman.web_shot": "Web Shot",
+
+  "rotp_spiderman.subtitle.spider_man_name": "\"Spider-man\"",
+  "rotp_spiderman.subtitle.rotp_spiderman.subtitle.web_shoot": "Web Shoot",
+  "rotp_spiderman.subtitle.spiderman_summon": "Spider-Man saves the Day",
+  "rotp_spiderman.subtitle.spiderman_unsummon" : "Thanks Spider-Man",
+  "rotp_spiderman.subtitle.web_hit": "Web Hit",
+  "rotp_spiderman.subtitle.web_shoot": "Web Shoot",
+  "rotp_spiderman.subtitle.web_ripped": "Web ripped",
+  "rotp_spiderman.subtitle.spider_punch": "Spider-Man Punch",
+  "rotp_spiderman.subtitle.spider_sense": "Spider Sense"
+}

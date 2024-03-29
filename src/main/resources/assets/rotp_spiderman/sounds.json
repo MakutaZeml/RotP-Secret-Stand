@@ -1,0 +1,56 @@
+{
+  "spiderman_summon": {
+    "subtitle": "rotp_spiderman.subtitle.spiderman_summon",
+    "sounds": [
+      "rotp_spiderman:stand/spiderman_summon",
+      "rotp_spiderman:stand/spiderman_summon_2",
+      "rotp_spiderman:stand/spiderman_summon_3",
+      "rotp_spiderman:stand/spiderman_summon_4"
+    ]
+  },
+  "spiderman_unsummon": {
+    "subtitle": "rotp_spiderman.subtitle.spiderman_unsummon",
+    "sounds": [
+      "rotp_spiderman:stand/spiderman_unsummon",
+      "rotp_spiderman:stand/spiderman_unsummon_2",
+      "rotp_spiderman:stand/spiderman_unsummon_3"
+    ]
+  },
+  "spiderman_web_shoot": {
+    "subtitle": "rotp_spiderman.subtitle.web_shoot",
+    "sounds": [
+      "rotp_spiderman:stand/web_sling_1",
+      "rotp_spiderman:stand/web_sling_2",
+      "rotp_spiderman:stand/web_sling_3",
+      "rotp_spiderman:stand/web_sling_4"
+    ]
+  },
+  "spiderman_web_hit": {
+    "subtitle": "rotp_spiderman.subtitle.web_hit",
+    "sounds": [
+      "rotp_spiderman:stand/web_hit_1",
+      "rotp_spiderman:stand/web_hit_2"
+    ]
+  },
+  "web_ripped": {
+    "subtitle": "rotp_spiderman.subtitle.web_ripped",
+    "sounds": [
+      "rotp_spiderman:stand/web_snap"
+    ]
+  },
+  "spider_punch": {
+    "subtitle": "rotp_spiderman.subtitle.spider_punch",
+    "sounds": [
+      "rotp_spiderman:stand/spider_punch_1",
+      "rotp_spiderman:stand/spider_punch_2"
+    ]
+  },
+  "spider_sense": {
+    "subtitle": "rotp_spiderman.subtitle.spider_sense",
+    "sounds":[
+      "rotp_spiderman:stand/spider_sense",
+      "rotp_spiderman:stand/spider_sense_2",
+      "rotp_spiderman:stand/spider_sense_3"
+    ]
+  }
+}
